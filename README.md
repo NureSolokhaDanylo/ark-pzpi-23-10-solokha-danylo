@@ -4,7 +4,7 @@
 
 Солоха Данило
 
-Стиль коду у Flutter - фреймворку мови Dart
+Правила оформлення коду на мові Dart за стандартами Effective Dart від Google
 
 Методи рефакторингу Фаулера для Dart: Replace Temp with Query, Decompose Conditional, Replace Nested Conditional with Guard Clauses
 
